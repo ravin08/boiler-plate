@@ -1,4 +1,4 @@
-# Write Name of projec:tboiler-plate
+# Name of project: boiler-plate
 
 ## Project Description:
 
@@ -21,5 +21,14 @@ website file structure
 * Back End:
   * PHP
   * mySql
+
+## Modules use in project:
+* Login Module
+
+## Contact:
+Email: ravin08@example.com
+Website: www.example.com
+
+
   
 
