@@ -5,7 +5,6 @@
 Write brife of your project.
 website file structure 
 
----
 
 ## This project has following features:
 * Feature number one
@@ -13,15 +12,14 @@ website file structure
 * Feature number three
 * Feature number four
 
----
 
 ## Programming Language:
 * Front End: 
   * HTML5
   * CSS3
-  *JavaScript
+  * JavaScript
 * Back End:
   * PHP
   * mySql
   
----
+
