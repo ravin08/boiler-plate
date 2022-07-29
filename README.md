@@ -17,10 +17,10 @@ website file structure
 * Front End: 
   * HTML5
   * CSS3
-  * JavaScript
+  * JavaScript-ES6, jQuery-v3.6.0, AJAX
 * Back End:
-  * PHP
-  * mySql
+  * PHP-7.4.0
+  * mySql-8.0.18
 
 ## Modules use in project:
 * Login Module
@@ -30,7 +30,7 @@ Contact me for any query
 
 Email: ravin08@example.com
 
-Website: www.example.com
+Website: https://www.example.com
 
 
   

@@ -58,6 +58,21 @@ body{
 
 }
 
+.top-menu{
+	width: 100%;
+
+}
+
+
+#content-warper{
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	width: 100%;
+	
+
+}
+
 /* override properies*/
 /* .aside{background-color:#8EBEFE;} */
 
